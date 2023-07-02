@@ -1,6 +1,9 @@
 <script lang="ts">
     import questions from "../../questions.json";
-    export let data;
+	import { score, usedQuestions } from "../../stores";
+	import { sumOfDigits } from "../../utils";
+	import type { PageData } from "./$types";
+    export let data: PageData;
 
     const question = questions[data.id].question;
     const choices = questions[data.id].choices;
@@ -14,6 +17,8 @@
 <div class="wrapper">
     <div class="content">
         <form method="POST" class="question">
+            <p>{sumOfDigits(data.score)}</p>
+            <p>{data.usedQuestions}</p>
             <h1>{question}</h1>
 
             <div class="choices">
@@ -43,7 +48,7 @@
                 </label>
             </div>
             <button type="submit" class="submit-btn">
-                Submit
+                Nächste
             </button>
             <div class="info">
                 {#if isSelected}
@@ -108,6 +113,7 @@
         border: none;
         transition: all .1s;
         cursor: pointer;
+        font-size: 14pt;
     }
 
     .submit-btn:hover {
