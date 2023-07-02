@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Wie stehst du zum Klimawandel?",
+        "choices": [
+            "Hallo, ich bin die Linke. Ich tue so, als ob Russland das tollste und beste Land der Welt wäre.",
+            "CDU",
+            "AfD",
+            "SPD",
+            "FDP"
+        ]
+    },
+    {
+        "question": "Was bedeutet für dich Freiheit?",
+        "choices": [
+            "Linke",
+            "CDU",
+            "AfD",
+            "SPD",
+            "FDP"
+        ]
+    },
+    {
+        "question": "Wie sollte deiner Meinung nach Vermögen verteilt werden?",
+        "choices": [
+            "Linke",
+            "CDU",
+            "AfD",
+            "SPD",
+            "FDP"
+        ]
+    },
+    {
+        "question": "Braucht Schule dringend eine Reform?",
+        "choices": [
+            "Linke",
+            "CDU",
+            "AfD",
+            "SPD",
+            "FDP"
+        ]
+    },
+    {
+        "question": "Ist Deutschland auf dem Weg in eine Diktatur?",
+        "choices": [
+            "Linke",
+            "CDU",
+            "AfD",
+            "SPD",
+            "FDP"
+        ]
+    },
+    {
+        "question": "Ist die heutige deutsche Regierung unfähig ihren Job zu tun?",
+        "choices": [
+            "Linke",
+            "CDU",
+            "AfD",
+            "SPD",
+            "FDP"
+        ]
+    }
+]
