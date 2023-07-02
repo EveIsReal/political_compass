@@ -47,7 +47,7 @@
                     FDP
                 </label>
             </div>
-            <button type="submit" class="submit-btn">
+            <button type="submit" class={isSelected ? "submit-btn" : "locked"} disabled={!isSelected}>
                 Nächste
             </button>
             <div class="info">
@@ -60,6 +60,18 @@
 </div>
 
 <style>
+
+    .locked {
+        cursor: not-allowed;
+        background-color: rgb(75, 152, 71);
+        padding: 15px;
+        margin-top: 25px;
+        border-radius: 10px;
+        border: none;
+        transition: all .1s;
+        font-size: 14pt;
+        
+    }
 
     .info {
         width: 50%;
