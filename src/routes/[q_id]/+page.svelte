@@ -29,22 +29,22 @@
 
                 <label for="c1">
                     <input type="radio" bind:group={answer} value={1} name="c1" class="choice">
-                    CDU
+                    SPD
                 </label>
 
                 <label for="c2">
                     <input type="radio" bind:group={answer} value={2} name="c2" class="choice">
-                    AfD
+                    FDP
                 </label>
 
                 <label for="c3">
                     <input type="radio" bind:group={answer} value={3} name="c3" class="choice">
-                    SPD
+                    CDU
                 </label>
 
                 <label for="c4">
                     <input type="radio" bind:group={answer} value={4} name="c4" class="choice">
-                    FDP
+                    AfD
                 </label>
             </div>
             <button type="submit" class={isSelected ? "submit-btn" : "locked"} disabled={!isSelected}>

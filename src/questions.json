@@ -58,5 +58,15 @@
             "CDU",
             "AfD"
         ]
+    },
+    {
+        "question": "Wie stehst du zur Globalisierung?",
+        "choices": [
+            "Linke",
+            "SPD",
+            "FDP",
+            "CDU",
+            "AfD"
+        ]
     }
 ]

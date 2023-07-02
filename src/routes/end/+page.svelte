@@ -5,7 +5,7 @@
     export let data: PageData;
 </script>
 
-<h1>End</h1>
+<h1>Ende</h1>
 <p>Dein Score: {sumOfDigits(data.score)}</p>
 <a href="/">
     Zum Anfang
