@@ -34,16 +34,11 @@
 
 				<label for="c2">
 					<input type="radio" bind:group={answer} value={2} name="c2" class="choice" />
-					SPD
-				</label>
-
-				<label for="c4">
-					<input type="radio" bind:group={answer} value={3} name="c4" class="choice" />
 					CDU
 				</label>
 
-				<label for="c5">
-					<input type="radio" bind:group={answer} value={4} name="c5" class="choice" />
+				<label for="c3">
+					<input type="radio" bind:group={answer} value={3} name="c3" class="choice" />
 					AfD
 				</label>
 			</div>
