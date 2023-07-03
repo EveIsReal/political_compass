@@ -103,9 +103,13 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
+        text-align: justify;
         width: 100%;
         height: 50vh;
-        border-radius: 10px;
+        border-radius: 20px;
+        padding: 25px;
+        -webkit-box-shadow: 1px 5px 15px 5px rgb(48, 48, 48);
+        box-shadow: 1px 5px 15px 5px rgb(32, 32, 32);
     }
     .choices {
         display: flex;
