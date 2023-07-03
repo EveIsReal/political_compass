@@ -3,6 +3,7 @@
         "question": "Wie stehst du zum Klimawandel?",
         "choices": [
             "Linke",
+            "Grüne",
             "SPD",
             "FDP",
             "CDU",
@@ -13,6 +14,7 @@
         "question": "Was bedeutet für dich Freiheit?",
         "choices": [
             "Linke",
+            "Grüne",
             "SPD",
             "FDP",
             "CDU",
@@ -23,6 +25,7 @@
         "question": "Wie sollte deiner Meinung nach Vermögen verteilt werden?",
         "choices": [
             "Linke",
+            "Grüne",
             "SPD",
             "FDP",
             "CDU",
@@ -33,6 +36,7 @@
         "question": "Braucht Schule dringend eine Reform?",
         "choices": [
             "Linke",
+            "Grüne",
             "SPD",
             "FDP",
             "CDU",
@@ -43,6 +47,7 @@
         "question": "Ist Deutschland auf dem Weg in eine Diktatur?",
         "choices": [
             "Linke",
+            "Grüne",
             "SPD",
             "FDP",
             "CDU",
@@ -53,6 +58,7 @@
         "question": "Ist die heutige deutsche Regierung unfähig ihren Job zu tun?",
         "choices": [
             "Linke",
+            "Grüne",
             "SPD",
             "FDP",
             "CDU",
@@ -63,6 +69,7 @@
         "question": "Wie stehst du zur Globalisierung?",
         "choices": [
             "Linke",
+            "Grüne",
             "SPD",
             "FDP",
             "CDU",
