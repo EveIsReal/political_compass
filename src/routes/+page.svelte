@@ -8,7 +8,7 @@
 
 <div class="wrapper">
 	<h1>Teste deine Politische Einstellung</h1>
-	<p>Beantworte alle Fragen und werde einer der 5 Bundestagsfraktionen zugeordnet.</p>
+	<p>Beantworte alle Fragen und bestimme so deine politische Gesinnung.</p>
 
 	<form method="POST">
 		<button type="submit" class="submit">
