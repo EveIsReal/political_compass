@@ -55,6 +55,19 @@
 </div>
 
 <style>
+
+	.question {
+		background-color: rgb(40, 107, 200);
+		padding: 25px;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		height: 50vh;
+		width: 100%;
+		border-radius: 20px;
+	}
+
 	.locked {
 		cursor: not-allowed;
 		background-color: rgb(75, 152, 71);

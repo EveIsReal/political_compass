@@ -12,6 +12,7 @@
 </a>
 
 <style>
+
     h1 {
         color: white;
     }
@@ -28,6 +29,6 @@
 		border-radius: 10px;
 		border: none;
 		cursor: pointer;
-        margin-top: 25px;
+        /* margin-top: 25px; */
     }
 </style>
