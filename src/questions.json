@@ -1,20 +1,18 @@
 [
     {
-        "question": "Wie stehst du zum Klimawandel?",
+        "question": "Ich würde Deutschland unterstützen, komme was wolle!",
         "choices": [
-            "Linke",
-            "SPD",
-            "FDP",
-            "CDU",
-            "AfD"
+            "Linke - ",
+            "Grüne - Patriotismus ist eine veraltete Denkschule, die nicht in den Zeitgeist einer Globalisierten Welt passt.",
+            "CDU - Vaterlandsstolz ist das gute Recht jedes Bürgers!",
+            "AfD - Vaterlandsstolz ist die PFLICHT eines jeden Deutschen Bürgers!"
         ]
     },
     {
-        "question": "Was bedeutet für dich Freiheit?",
+        "question": "Ich glaube, dass Migration eine Bereicherung ist.",
         "choices": [
             "Linke",
-            "SPD",
-            "FDP",
+            "Grüne",
             "CDU",
             "AfD"
         ]
@@ -23,8 +21,7 @@
         "question": "Wie sollte deiner Meinung nach Vermögen verteilt werden?",
         "choices": [
             "Linke",
-            "SPD",
-            "FDP",
+            "Grüne",
             "CDU",
             "AfD"
         ]
@@ -33,8 +30,7 @@
         "question": "Braucht Schule dringend eine Reform?",
         "choices": [
             "Linke",
-            "SPD",
-            "FDP",
+            "Grüne",
             "CDU",
             "AfD"
         ]
@@ -43,8 +39,7 @@
         "question": "Ist Deutschland auf dem Weg in eine Diktatur?",
         "choices": [
             "Linke",
-            "SPD",
-            "FDP",
+            "Grüne",
             "CDU",
             "AfD"
         ]
@@ -53,8 +48,7 @@
         "question": "Ist die heutige deutsche Regierung unfähig ihren Job zu tun?",
         "choices": [
             "Linke",
-            "SPD",
-            "FDP",
+            "Grüne",
             "CDU",
             "AfD"
         ]
@@ -63,8 +57,7 @@
         "question": "Wie stehst du zur Globalisierung?",
         "choices": [
             "Linke",
-            "SPD",
-            "FDP",
+            "Grüne",
             "CDU",
             "AfD"
         ]
