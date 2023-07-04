@@ -19,7 +19,7 @@
 
 <style>
 
-	h1 {
+	.wrapper > h1 {
 		color: white;
 		font-size: 31pt;
 		margin-top: 7%;
