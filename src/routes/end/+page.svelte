@@ -12,7 +12,7 @@
 	<h1 class="title">Ende</h1>
 	<!-- <p class="s-title">Dein Score: {score}</p> -->
 	<img src={path} class="img" alt="">
-	<p class="s-title"> 💕 Dein Herzblatt: {name} 💕</p>
+	<p class="s-title"> 💕 Dein Herzblatt: {name} ({calcResult(score)}) 💕</p>
 	<a class="link" href="/">Zum Anfang</a>
 </div>
 
