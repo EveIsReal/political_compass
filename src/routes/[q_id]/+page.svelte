@@ -17,8 +17,8 @@
 <div class="wrapper">
 	<div class="content">
 		<form method="POST" class="question">
-			<p>{sumOfDigits(data.score)}</p>
-			<p>{data.usedQuestions}</p>
+			<!-- <p>{sumOfDigits(data.score)}</p>
+			<p>{data.usedQuestions}</p> -->
 			<h1>{question}</h1>
 
 			<div class="choices">
@@ -66,6 +66,13 @@
 		height: 50vh;
 		width: 100%;
 		border-radius: 20px;
+		text-align: center;
+	}
+
+	input[type="radio"] {
+		-ms-transform: scale(1.5);
+		-webkit-transform: scale(1.5); /* Chrome, Safari, Opera */
+  		transform: scale(1.5);
 	}
 
 	.locked {
@@ -85,6 +92,8 @@
 		justify-content: center;
 		align-items: center;
 		margin-top: 10px;
+		text-align: center;
+		font-size: 16pt;
 	}
 
 	.wrapper {

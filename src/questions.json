@@ -1,65 +1,119 @@
 [
     {
-        "question": "Ich würde Deutschland unterstützen, komme was wolle!",
+        "question": "Unternehmen sollten in erster Linie danach streben, Gewinn zu erwirtschaften",
         "choices": [
-            "Linke - ",
-            "Grüne - Patriotismus ist eine veraltete Denkschule, die nicht in den Zeitgeist einer Globalisierten Welt passt.",
-            "CDU - Vaterlandsstolz ist das gute Recht jedes Bürgers!",
-            "AfD - Vaterlandsstolz ist die PFLICHT eines jeden Deutschen Bürgers!"
+            "Die Gewinnorientierung der Unternehmen ist ein Hindernis für das gerechte Voranschreiten der Gesellschaft.",
+            "Die Profiterwirtschaftung der Unternehmen sollte, wenn überhaupt, mit umweltfreundlichen und gerechten Mitteln geschehen",
+            "Ohne den Kapitalismus ginge unsere Gesellschaft und Wirtschaft kaputt.",
+            "Der Kapitalismus, den die Regierung vorantreibt, verhindert Gerechtigkeit und sorgt für Arbeitslosigkeit."
         ]
     },
     {
-        "question": "Ich glaube, dass Migration eine Bereicherung ist.",
+        "question": "Reiche sollten stärker besteuert werden",
         "choices": [
-            "Linke",
-            "Grüne",
-            "CDU",
-            "AfD"
+            "Eine Vermögenssteuer ist notwendig, um eine gerechte Umverteilung schnell zu ermöglichen.",
+            "Eine Vermögenssteuer ist notwendig, um viele Investitionen in den Klimaschutz zu ermöglichen.",
+            "Die Vermögenssteuer ist eine Wohlstandsbremse",
+            "Eine Vermögenssteuer ist böse. Die existierenden Steuern belasten die Vermögenden bereits zu sehr."
         ]
     },
     {
-        "question": "Wie sollte deiner Meinung nach Vermögen verteilt werden?",
+        "question": "Die Abtreibung sollte grundsätzlich unter Strafe gestellt werden.",
         "choices": [
-            "Linke",
-            "Grüne",
-            "CDU",
-            "AfD"
+            "Schwangerschaftsabbrüche sollten vollständig entkriminalisiert werden.",
+            "Abtreibungen sollten entkriminalisiert werden, aber Frauen sollten sich zuvor gut beraten lassen könne",
+            "Abtreibungen sind nicht wünschenswert und sollten keinesfalls beworben werden.",
+            "Die Abtreibung sollte kein Menschenrecht sein und ist mindestens zu verurteilen."
         ]
     },
     {
-        "question": "Braucht Schule dringend eine Reform?",
+        "question": "Gendern sollte verpflichtend eingeführt werden.",
         "choices": [
-            "Linke",
-            "Grüne",
-            "CDU",
-            "AfD"
+            "Das Gendern ist notwendig, um die Frau und den Mann in allen Bereichen gleichzustellen.",
+            "Im öffentlich en Dienst sollte das Gendern verpflichtend sein.",
+            "Das generische Maskulinum benachteiligt niemanden.",
+            "Das Gendern sollte verboten sein."
         ]
     },
     {
-        "question": "Ist Deutschland auf dem Weg in eine Diktatur?",
+        "question": "Menschen mit schweren erblichen Behinderungen sollten sich nicht fortpflanzen dürfen?",
         "choices": [
-            "Linke",
-            "Grüne",
-            "CDU",
-            "AfD"
+            "Behinderungen stellen keinen Grund dar, sich nicht fortpflanzen zu dürfen.",
+            "Behinderungen stellen keinen Grund dar, sich nicht fortpflanzen zu dürfen.",
+            "Die Eltern sollten zumindest informiert werden, welche Folge ihr handeln hat.",
+            "Kinder sollen grundsätzlich die Möglichkeit haben, ohne Beeinträchtigungen aufzuwachsen. Deshalb sollte die Fortpflanzung von Menschen mit erblicher Behinderung verboten sein."
         ]
     },
     {
-        "question": "Ist die heutige deutsche Regierung unfähig ihren Job zu tun?",
+        "question": "Es gibt keine wilden und unzivilisierten Völker. Es gibt nur unterschiedliche Kulturen.",
         "choices": [
-            "Linke",
-            "Grüne",
-            "CDU",
-            "AfD"
+            "Stimme uneingeschränkt zu.",
+            "Stimme uneingeschränkt zu.",
+            "Stimme eingeschränkt zu / Widerspreche in Teilen.",
+            "Es gibt viele unzivilisierte Völker, die dem deutschen Volke unterlegen sind."
         ]
     },
     {
-        "question": "Wie stehst du zur Globalisierung?",
+        "question": "Wer arbeitsfähig ist, sich der Arbeit aber verweigert, sollte keine Sozialhilfen beziehen dürfen.",
         "choices": [
-            "Linke",
-            "Grüne",
-            "CDU",
-            "AfD"
+            "Arbeitsverweigerung sollte kein Grund für das Streichen von Sozialhilfen sein. Es gibt schließlich das Recht auf freie Berufswahl.",
+            "Arbeitsverweigerung sollte kein Grund für das Streichen von Sozialhilfen sein. Es gibt schließlich das Recht auf freie Berufswahl.",
+            "Arbeitsverweigerung kann ein Grund sein, Sozialhilfen zu sperren.",
+            "Arbeitslosigkeit ist eines der größten Probleme einer Gesellschaft und sollte deshalb mit allen Mitteln – auch mit der Streichung von Sozialhilfen – verhindert werden."
+        ]
+    }, 
+    {
+        "question": "Was für die Unternehmen gut ist, ist für uns alle gut.",
+        "choices": [
+            "Die Unternehmen helfen der Gesellschaft nur, wenn sie in staatlicher Hand sind.",
+            "Unternehmen können gutes für die Gesellschaft tun. Dafür benötigt es aber staatliche Regulierung.",
+            "Die Tätigkeit von Unternehmen sorgt meist dafür, dass die Gesellschaft profitiert.",
+            "Unternehmen sollten in erster Linie der Gesellschaft dienen, dafür muss aber eine neue Regierung sorgen. "
+        ]
+    },
+    {
+        "question": "Keine Rundfunkanstalt sollte öffentliche Mittel beziehen dürfen.",
+        "choices": [
+            "Rundfunkanstalten sollten öffentliche Mittel erhalten dürfen. Aktuell sollten besonders Rundfunkanstalten aus Ostdeutschland Fördermittel erhalten.",
+            "Einige Rundfunkanstalten sollten öffentliche Mittel erhalten.",
+            "Die Finanzierung der Rundfunkanstalten sollte reduziert werden.",
+            "Rundfunkanstalten sollten keine öffentlichen Mittel mehr beziehen."
+        ]
+    },
+    {
+        "question": "In einem guten Strafsystem sollte die Bestrafung wichtiger sein als die Chance auf Rehabilitation.",
+        "choices": [
+            "Bestrafung, die jemandem das Recht auf Freiheit aberkennt, ist nicht menschenwürdig und kontraproduktiv.",
+            "Rehabilitation sollte das Ziel eines guten Justizsystems sein. Drakonische Strafen lösen ein Kriminalitätsproblem niemals.",
+            "Den Menschen muss klargemacht werden, dass sich der Staat nicht alles gefallen lässt. Strafe muss sein!",
+            "Verbrechen gehören bestraft! Unsere Bürger sollen nicht durch gefährdet werden."
+        ]
+    },
+    {
+        "question": "Die wichtigsten Aufgaben der Frau sind es, eine gute Mutter und Hausfrau zu sein.",
+        "choices": [
+            "Starke Ablehnung",
+            "Starke Ablehnung",
+            "Stimme in einigen Teilen zu",
+            "Stimme stark zu"
+        ]
+    },
+    {
+        "question": "Man kann nicht moralisch handeln, ohne religiös zu sein.",
+        "choices": [
+            "Religion als Notwendigkeit für moralisches Handeln zu anzuerkennen zeigt nur die eigene Unfähigkeit ein kluger Mensch zu sein.",
+            "Religion als Notwendigkeit für moralisches Handeln zu anzuerkennen zeigt nur die eigene Unfähigkeit ein kluger Mensch zu sein.",
+            "Rationales Denken zeigt immer wieder gefühlskaltes Verhalten.",
+            "In Deutschland herrscht seit unzähligen Jahren das Christentum. Warum sollten wir uns jetzt davon abkehren?"
+        ]
+    },
+    {
+        "question": "Gleichgeschlechtliche Paare sollten die gleichen Möglichkeiten zur Ehe und Kindesadoption haben wie heterosexuelle Paare.",
+        "choices": [
+            "Die eigene sexuelle Identität sagt nichts Aussagekräftiges über die Person hinter ihr aus. Warum sollte man der Person also so etwas fundamentales wie die Ehe mit der Basis auf ihrer Identität verwehren?",
+            "Die eigene sexuelle Identität sagt nichts Aussagekräftiges über die Person hinter ihr aus. Warum sollte man der Person also so etwas fundamentales wie die Ehe mit der Basis auf ihrer Identität verwehren?",
+            "Die Familie steht an erster Stelle. Jedem Kind sollte eine Familie mit Vater und Mutter zustehen.",
+            "Solch verkommenes Gedankengut gehört nicht in das heilige Familienkonstrukt."
         ]
     }
 ]

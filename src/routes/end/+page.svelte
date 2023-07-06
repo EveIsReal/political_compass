@@ -1,19 +1,28 @@
 <script lang="ts">
-	import { calcResult, sumOfDigits } from "../../utils";
+	import { calcResult, pathToName, sumOfDigits, toImagePath } from "../../utils";
 	import type { PageData } from "./$types";
 
     export let data: PageData;
 	const score = sumOfDigits(data.score);
+	const path = toImagePath(score);
+	const name = pathToName(path?? "/");
 </script>
 
 <div class="end-wrapper">
 	<h1 class="title">Ende</h1>
-	<p class="s-title">Dein Score: {score}</p>
-	<p class="s-title">Dein Herzblatt: {calcResult(3)}</p>
+	<!-- <p class="s-title">Dein Score: {score}</p> -->
+	<img src={path} class="img" alt="">
+	<p class="s-title"> 💕 Dein Herzblatt: {name} 💕</p>
 	<a class="link" href="/">Zum Anfang</a>
 </div>
 
 <style>
+
+	.img {
+		width: 350px;
+		height: 350px;
+		object-fit: cover;
+	}
 
 	.end-wrapper {
 		width: 100%;
@@ -22,7 +31,7 @@
 		flex-direction: column;
 		justify-content: center;
 		align-items: center;
-		margin-bottom: 10%;
+		margin-bottom: 5%;
 	}
 
 	.s-title {
@@ -31,7 +40,7 @@
 
     .title {
         color: white;
-		margin: 0px;
+		margin-bottom: 20px;
 		font-size: 51pt;
     }
 

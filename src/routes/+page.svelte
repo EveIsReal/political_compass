@@ -7,8 +7,8 @@
 </script>
 
 <div class="wrapper">
-	<h1>Teste deine Politische Einstellung</h1>
-	<p>Beantworte alle Fragen und bestimme so deine politische Gesinnung.</p>
+	<h1>💕 Wer ist dein politisches Herzblatt 💕</h1>
+	<p style="font-size: 15pt;">Beantworte alle Fragen und finde dein politisches Herzblatt.</p>
 
 	<form method="POST">
 		<button type="submit" class="submit">
