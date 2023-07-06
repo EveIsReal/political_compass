@@ -26,12 +26,12 @@
 
 	.end-wrapper {
 		width: 100%;
-		height: 100%;
+		height: 88%;
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
 		align-items: center;
-		margin-bottom: 5%;
+		margin-bottom: 0%;
 	}
 
 	.s-title {

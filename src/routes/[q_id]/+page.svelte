@@ -100,7 +100,7 @@
 		display: flex;
 		justify-content: center;
 		align-items: center;
-		height: 90%;
+		height: 88%;
 	}
 
 	.content {
