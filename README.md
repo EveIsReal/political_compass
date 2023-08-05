@@ -1,6 +1,6 @@
 # Political Compass
 
-Funny little app to determine your political attitude based on German politics.
+Funny little school project to determine your political attitude based on German politics.
 
 ## Details
 
